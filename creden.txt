@@ -1,0 +1,10 @@
+http://localhost:8080/phpmyadmin/
+
+omendra.singh@motherson.com
+
+tmadmin
+psadmin@5525
+
+npm run dev
+
+D:\23-Other Projects\TTMS\ttms>npm run dev

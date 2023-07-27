@@ -1,0 +1,11 @@
+Steps for production
+
+1. Run XAMPP App ans start Apache and MySql
+2. Change App Port
+3. Upload source code on server ( if source code don’t have node_modules in that case we need to run a command  
+   >> npm install in root of directory).
+4. Create database. 
+5. Import database which is provided in zip file.
+6. Configure database in db.js file in root directory.
+7. Run command >> npm run dev
+8. After above command confirm the port then run link with port in browser
